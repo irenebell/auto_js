@@ -4,3 +4,9 @@ if (x === 5) {
 } else {
     console.log("False");
 };
+
+/**ternary operatoe **/
+
+const num = 5;
+
+(num == 5) ? console.log('true') : console.log('false');
